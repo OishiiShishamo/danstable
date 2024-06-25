@@ -1,5 +1,29 @@
 {
 "name" : "ここに難易度表の名前",
 "symbol" : "ここにシンボル",
-"data_url" : "ここにJSONのURL"
-}
+"data_url" : "ここにJSONのURL",
+"course":[
+    [
+        {"name":"第2通常段位認定2015 初段","constraint":["grade_mirror","gauge_lr2"],"trophy":[{"name":"silvermedal","missrate":5.0,"scorerate":70.0},{"name":"goldmedal", "missrate":2.5,"scorerate":85.0}],"style":"lightgreen","md5":["5734e689de8e977d58c6fb0f91bcee70","5bb7d406aa5848ec2f46d80c29d82ca5","7fff4be5e57c65e7e65a081a39292e66","3f45e68a802d62bcea78c1fc0d93d484"]},
+        {"name":"第2通常段位認定2015 二段","constraint":["grade_mirror","gauge_lr2"],"trophy":[{"name":"silvermedal","missrate":5.0,"scorerate":70.0},{"name":"goldmedal", "missrate":2.5,"scorerate":85.0}],"style":"lightgreen","md5":["2c0d139bb400382935ae45259141a17b","3b6bb838cf98b67999a68b5bf706436a","b8f64e0e2a39a04a5cdccc2b20642c32","540e93cc11287ad8c714260460ac9fb5"]},
+        {"name":"第2通常段位認定2015 三段","constraint":["grade_mirror","gauge_lr2"],"trophy":[{"name":"silvermedal","missrate":5.0,"scorerate":70.0},{"name":"goldmedal", "missrate":2.5,"scorerate":85.0}],"style":"lightgreen","md5":["5d298afcb4debc77516e2fe4e5160707","e2964cfe83166848def5b57ee65d0035","33886d50eeed58432b65952deda91e49","49211e7ff7eef57e2b591b351d3f0914"]},
+        {"name":"第2通常段位認定2015 四段","constraint":["grade_mirror","gauge_lr2"],"trophy":[{"name":"silvermedal","missrate":5.0,"scorerate":70.0},{"name":"goldmedal", "missrate":2.5,"scorerate":85.0}],"style":"lightgreen","md5":["d57a17d64cc52db2f2a722c8694d2b45","6473a5ccee87efd65a6fc3fc8f50f178","573f06ced9dd4e9a9417eedef9bbc542","f909cf16df2f2f14e5c702477b90152c"]},
+        {"name":"第2通常段位認定2015 五段","constraint":["grade_mirror","gauge_lr2"],"trophy":[{"name":"silvermedal","missrate":5.0,"scorerate":70.0},{"name":"goldmedal", "missrate":2.5,"scorerate":85.0}],"style":"cyan","md5":["e8f3ffafe1a1a8c84ed2d2cb380d324d","46cbd3b29d0ba5b55820858f5d5cf12c","d4a59f3995ede718c630c54c3c9f134d","bb17d6e06313cca519ce6db737f0c5c5"]},
+        {"name":"第2通常段位認定2015 六段","constraint":["grade_mirror","gauge_lr2"],"trophy":[{"name":"silvermedal","missrate":5.0,"scorerate":70.0},{"name":"goldmedal", "missrate":2.5,"scorerate":85.0}],"style":"cyan","md5":["dbf71bc8344d4fd406e154e599c5c27c","298c5d422977d8569f8b9a1edea3124d","542e726eb1e043b4616d10b11b4e8a14","97b5e9745c3afd03b079e39e5a315030"]},
+        {"name":"第2通常段位認定2015 七段","constraint":["grade_mirror","gauge_lr2"],"trophy":[{"name":"bronzemedal","missrate":7.5,"scorerate":0.0},{"name":"silvermedal","missrate":5.0,"scorerate":70.0},{"name":"goldmedal", "missrate":2.5,"scorerate":85.0}],"style":"cyan","md5":["be200f2661494dc96a0b0484e36129db","4ae1854c1894c4412ca2c40471628d43","541c9a97e8fbfe4087662f84d93b850b","dad53c2e0914f6867da3e4e2eacd69fa"]},
+        {"name":"第2通常段位認定2015 八段","constraint":["grade_mirror","gauge_lr2"],"trophy":[{"name":"bronzemedal","missrate":7.5,"scorerate":0.0},{"name":"silvermedal","missrate":5.0,"scorerate":70.0},{"name":"goldmedal", "missrate":2.5,"scorerate":85.0}],"style":"cyan","md5":["1bac37f4ae696df258b21a902bfd0232","1b246941755c0b57d94f824390197d0f","ede57aeeaa87ea18c4bffa31aa6c19c0","b357386bcc0c49f55c598759e523fb34"]},
+        {"name":"第2通常段位認定2015 九段","constraint":["grade_mirror","gauge_lr2"],"trophy":[{"name":"bronzemedal","missrate":7.5,"scorerate":0.0},{"name":"silvermedal","missrate":5.0,"scorerate":70.0},{"name":"goldmedal", "missrate":2.5,"scorerate":85.0}],"style":"red","md5":["043880563155d8763a33660bfda32c23","52265862e46b3d12f65c84f30ab7895f","e6d59faa8aa2708d4faaa3013d136e40","a69797e5735be285a032d519788f2424"]},
+        {"name":"第2通常段位認定2015 十段","constraint":["grade_mirror","gauge_lr2"],"trophy":[{"name":"bronzemedal","missrate":7.5,"scorerate":0.0},{"name":"silvermedal","missrate":5.0,"scorerate":70.0},{"name":"goldmedal", "missrate":2.5,"scorerate":85.0}],"style":"red","md5":["adfa536284238aa08c3ff4bb9e5b8c9c","c47a156a785f8d1858341ab722ceab80","c71fdca6438aee0c7068cbc5103bd3b4","3004d49607ce6fe08e572169a7bd61c2"]}
+    ],
+    [
+        {"name":"Solomon 第1期 発狂九段","constraint":["grade_random","gauge_lr2","ln",""],"md5": ["f6b6559b7f74ddfa82fd00e1ab6f3e44","0bcc907d2af998f13d304f8a50ce2e52","9076c384d78d4b5f77a2517a7b06e506","79dc444b48299814462ff23a2bf3ab79"]},
+        {"name":"Solomon 第1期 発狂九段2","constraint":["grade_random","gauge_lr2","ln",""],"md5": ["5b872da4e08d476f81a61f5e1cdd00c6","45b6a94349443e21fcc2b9c542c1fe50","34830e1501d13911bec3c74bab69c7a1","ea3a88b264187f1a1516977309fd6b12"]},
+        {"name":"Solomon 第1期 発狂十段","constraint":["grade_random","gauge_lr2","ln",""],"md5": ["91b0a169e6cde78b058fda8a404240a0","e6cc5a43e97b5e32b47fe014c577bfc3","485e3339c09eef0ea508dd0f7dd42d19","3216e0be0404e5311672194432d8b82a"]},
+        {"name":"Solomon 第1期 発狂十段2","constraint":["grade_random","gauge_lr2","ln",""],"md5": ["e79f933ddae3293aaa621a6aa4ebaa0d","caf28761421f884b86fae67efe1eeb6c","8f4dc7c8237ce74eaf5740808fa89844","82c1314cf8ab2c96321aaf67eb16c83c"]},
+        {"name":"Solomon 第1期 発狂皆伝","constraint":["grade_random","gauge_lr2","ln",""],"md5": ["5026c88dc5986a429a869495528ade14","ee9f9aadb4592505074302d51c07a3b5","c7bfe0504b2e103f156a1d6e4c113efb","01d9ea966de753dee21609a2b69a68e0"]},
+        {"name":"Solomon 第1期 発狂皆伝2","constraint":["grade_random","gauge_lr2","ln",""],"md5": ["5267eb8a7dde7bced341bd0e261d4008","bea09a3c942e4118bc626924b16ed7bd","cfad3baadce9e02c45021963453d7c94","6d36346d7d87daf52eccd4aacf93fc52"]},
+        {"name":"Solomon 第1期 Overjoy","constraint":["grade_random","gauge_lr2","ln",""],"md5": ["284712605e020dfbd6b8be94afc053fd","655052be72cdca0efda4c89041c056e3","8f2a82e4f1f3e299c5d761a4c673b9ae","c46a81cb184f5a804c119930d6eba748"]},
+        {"name":"Solomon 第1期 Overjoy2","constraint":["grade_random","gauge_lr2","ln",""],"md5": ["7bc4913beb3949308756e6edec8999e5","188a99f74ab71804f2e360dcf484545c","7b120f62df2da69ec06f2321d1969f67","24a1ac98307d14fc9094985849120d41"]},
+        {"name":"Solomon 第1期 Solomon","constraint":["grade_random","gauge_lr2","ln",""],"md5": ["4ef61e6b853dac78eee4e58f6f16841f","41217e6781381b7363d187fdb6a5d8fa","2461741e8f4e16e73cb2f2da061288d1","a03a6fb99314771b5f408e1556b1d124"]}
+    ]
+]}
